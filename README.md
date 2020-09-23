@@ -1,2 +1,1 @@
-# sispak
-Sistem Pakar
+# Sistem-Pakar
